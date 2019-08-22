@@ -14,6 +14,12 @@ User Experience Middle-end, with Stats, Tracker, Feedback, Replay, Analytics, Su
 
 ## Motivation & Credits
 
+- [Fathom #Project#](https://github.com/usefathom/fathom): Fathom. Simple, trustworthy website analytics. Built with Golang & Preact.
+
+- [Matomo #Project#](https://github.com/matomo-org/matomo): Liberating Web Analytics. Star us on Github? +1. Matomo is the leading open alternative to Google Analytics that gives you full control over your data. Matomo lets you easily collect data from websites, apps & the IoT and visualise this data and extract insights. Privacy is built-in. We love Pull Requests!
+
+- [Sentry #Project#](https://github.com/getsentry/sentry): Sentry is cross-platform application monitoring, with a focus on error reporting.
+
 ## Home & More
 
 [某熊的技术之路指北 ☯ ](https://github.com/wx-chevalier/Developer-Zero-To-Mastery)就是对笔者不同领域方面沉淀下的知识仓库的导航与索引，便于读者快速地寻找到自己需要的内容。路漫漫其修远兮，吾正上下而求索，也希望能给所有遇见过笔者痕迹的同学些许帮助，在浩瀚银河间能顺利达到一个又一个彼岸。Just Coder，Travel in Galaxy，欢迎关注[某熊的技术之路](https://i.postimg.cc/mDxdH0VL/image.png)公众号，让我们一起前行。
