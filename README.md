@@ -8,7 +8,7 @@ User Experience Middle-end, with Stats, Tracker, Feedback, Replay, Analytics, Su
 
 对于中台的定义可以参考[这里](https://ngte-se.gitbook.io/i/?q=%E4%B8%AD%E5%8F%B0/)。
 
-<img src="https://i.postimg.cc/1XgsdY5c/image.png" height="400">
+<img src="https://s2.ax1x.com/2019/09/06/nKZXHs.png" height="400">
 
 # About
 
