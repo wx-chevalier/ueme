@@ -20,6 +20,12 @@ User Experience Middle-end, with Stats, Tracker, Feedback, Replay, Analytics, Su
 
 - [Sentry #Project#](https://github.com/getsentry/sentry): Sentry is cross-platform application monitoring, with a focus on error reporting.
 
+- [bugsnag-js #Project#](https://github.com/bugsnag/bugsnag-js): Javascript error handling tool for Bugsnag. Monitor and report JavaScript bugs & errors. 
+
+- [Feedback](https://github.com/ivoviz/feedback): Feedback tool similar to Google's.
+
+- [rrweb](https://github.com/rrweb-io/rrweb): record and replay the web
+
 ## Home & More
 
 [某熊的技术之路指北 ☯ ](https://github.com/wx-chevalier/Developer-Zero-To-Mastery)就是对笔者不同领域方面沉淀下的知识仓库的导航与索引，便于读者快速地寻找到自己需要的内容。路漫漫其修远兮，吾正上下而求索，也希望能给所有遇见过笔者痕迹的同学些许帮助，在浩瀚银河间能顺利达到一个又一个彼岸。Just Coder，Travel in Galaxy，欢迎关注[某熊的技术之路](https://i.postimg.cc/mDxdH0VL/image.png)公众号，让我们一起前行。
