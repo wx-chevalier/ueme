@@ -18,11 +18,21 @@ User Experience Middle-end, with Stats, Tracker, Feedback, Replay, Analytics, Su
 
 - [Matomo #Project#](https://github.com/matomo-org/matomo): Liberating Web Analytics. Star us on Github? +1. Matomo is the leading open alternative to Google Analytics that gives you full control over your data. Matomo lets you easily collect data from websites, apps & the IoT and visualise this data and extract insights. Privacy is built-in. We love Pull Requests!
 
+### Feedback
+
+- [Feedback](https://github.com/ivoviz/feedback): Feedback tool similar to Google's.
+
+### Error Tracking
+
 - [Sentry #Project#](https://github.com/getsentry/sentry): Sentry is cross-platform application monitoring, with a focus on error reporting.
 
 - [bugsnag-js #Project#](https://github.com/bugsnag/bugsnag-js): Javascript error handling tool for Bugsnag. Monitor and report JavaScript bugs & errors. 
 
-- [Feedback](https://github.com/ivoviz/feedback): Feedback tool similar to Google's.
+- [Perry](https://github.com/perry-js/perry): Painless and agnostic front-end bug reporting. Collect logs, errors, clicks, and session data easily.
+
+- [Polly.JS](https://github.com/Netflix/pollyjs): Polly.JS is a standalone, framework-agnostic JavaScript library that enables recording, replaying, and stubbing of HTTP interactions. 
+
+### Record
 
 - [rrweb](https://github.com/rrweb-io/rrweb): record and replay the web
 
