@@ -18,8 +18,6 @@ User Experience Middle-end, with Stats, Tracker, Feedback, Replay, Analytics, Su
 
 - [Matomo #Project#](https://github.com/matomo-org/matomo): Liberating Web Analytics. Star us on Github? +1. Matomo is the leading open alternative to Google Analytics that gives you full control over your data. Matomo lets you easily collect data from websites, apps & the IoT and visualise this data and extract insights. Privacy is built-in. We love Pull Requests!
 
-- [2020-Monitoror #Project#](https://github.com/monitoror/monitoror)
-
 ### Feedback
 
 - [Feedback](https://github.com/ivoviz/feedback): Feedback tool similar to Google's.
