@@ -22,16 +22,6 @@ User Experience Middle-end, with Stats, Tracker, Feedback, Replay, Analytics, Su
 
 - [Feedback](https://github.com/ivoviz/feedback): Feedback tool similar to Google's.
 
-### Error Tracking
-
-- [Sentry #Project#](https://github.com/getsentry/sentry): Sentry is cross-platform application monitoring, with a focus on error reporting.
-
-- [bugsnag-js #Project#](https://github.com/bugsnag/bugsnag-js): Javascript error handling tool for Bugsnag. Monitor and report JavaScript bugs & errors. 
-
-- [Perry](https://github.com/perry-js/perry): Painless and agnostic front-end bug reporting. Collect logs, errors, clicks, and session data easily.
-
-- [Polly.JS](https://github.com/Netflix/pollyjs): Polly.JS is a standalone, framework-agnostic JavaScript library that enables recording, replaying, and stubbing of HTTP interactions. 
-
 ### Record
 
 - [rrweb](https://github.com/rrweb-io/rrweb): record and replay the web
